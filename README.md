@@ -14,4 +14,4 @@
 
 ## 📫 Meus Contatos
 
-https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/
+🔗 [LinkedIn - Vinícius Soares](https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/)
