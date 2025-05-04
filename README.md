@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Sou o Vinícius Soares! 👋
 
-<!--
-**vinisoares9/vinisoares9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência de Dados** e **Machine Learning** no Centro Universitário de Brasília (UNICEUB), atualmente no primeiro semestre.
 
-Here are some ideas to get you started:
+🔍 Interessado em aprender cada vez mais sobre **Inteligência Artificial**, **Data Science** e **Machine Learning**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Vinícius Soares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisoares9&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Meus Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
