@@ -1,6 +1,6 @@
 # Olá! Sou o Vinícius Soares! 👋
 
-🎓 Estudante de **Ciência de Dados** e **Machine Learning** no Centro Universitário de Brasília (UNICEUB), atualmente no segundo semestre.
+🎓 Estudante de **Ciência de Dados** e **Machine Learning** no Centro Universitário de Brasília (UNICEUB), atualmente no terceiro semestre.
 
 🔍 Interessado em aprender cada vez mais sobre **Inteligência Artificial**, **Data Science** e **Machine Learning**!
 
