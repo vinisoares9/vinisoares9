@@ -15,3 +15,4 @@
 ## 📫 Meus Contatos
 
 🔗 [LinkedIn - Vinícius Soares](https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/)
+📧 Email - vini.ribeiro.soares@gmail.com
