@@ -14,5 +14,5 @@
 
 ## 📫 Meus Contatos
 
-🔗 [LinkedIn - Vinícius Soares](https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/)
-📧 Email - vini.ribeiro.soares@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/)
+[![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:vini.ribeiro.soares@gmail.com)
