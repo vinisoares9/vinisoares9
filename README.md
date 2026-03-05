@@ -24,7 +24,7 @@
 
 # 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vinisoares9&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=vinisoares9&theme=tokyonight)
 
 ---
 
