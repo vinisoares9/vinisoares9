@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisoares9&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisoares9&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisoares9&layout=compact&theme=tokyonight)
 
@@ -38,8 +38,6 @@ CRUD desenvolvido em Python utilizando Tkinter.
 Estudo sobre funcionamento, aplicações e vantagens de bancos NoSQL.
 
 ---
-
-## 📫 Meus Contatos
 
 ## 📫 Contato
 
