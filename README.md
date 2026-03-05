@@ -24,11 +24,7 @@
 
 # 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisoares9&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vinisoares9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisoares9&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=vinisoares9&theme=dark)
 
 ---
 
