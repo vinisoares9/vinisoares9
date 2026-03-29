@@ -30,6 +30,9 @@
 
 # 📂 Projetos em Destaque
 
+💊 **Sistema de Controle de Medicamentos**
+Aplicação de CLI (linha de comando) para controle de medicamentos para idosos.
+
 📊 **Dashboard de Vendas Executivo**  
 Projeto de Business Intelligence com análise de dados de vendas.
 
