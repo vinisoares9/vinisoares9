@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou o Vinícius Soares
 🎓 Estudante de **Ciência de Dados e Machine Learning** no Centro Universitário de Brasília (UNICEUB).
+
 📊 Tenho interesse em **Inteligência Artificial, Data Science e Machine Learning**, com foco em análise de dados, visualização e desenvolvimento de soluções baseadas em dados.
+
 🚀 Atualmente desenvolvendo projetos com **Python, SQL e ferramentas de Business Intelligence**.
 ---
 # 🚀 Tecnologias e Ferramentas
@@ -14,14 +16,19 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=vinisoares9&theme=tokyonight)
 ---
 # 📂 Projetos em Destaque
+
 ⚽ **Futebol Analytics**  
 Pipeline de dados do Brasileirão: extração via API, banco de dados MySQL, modelo de Machine Learning servido por API própria e dashboard interativo em Power BI.
+
 💊 **Sistema de Controle de Medicamentos**  
 Aplicação de CLI (linha de comando) para controle de medicamentos para idosos.
+
 📊 **Dashboard de Vendas Executivo**  
 Projeto de Business Intelligence com análise de dados de vendas.
+
 🗄️ **Pesquisa sobre Bancos de Dados NoSQL**  
 Estudo sobre funcionamento, aplicações e vantagens de bancos NoSQL.
+
 💻 **Sistema de Cadastro de Alunos**  
 CRUD desenvolvido em Python utilizando Tkinter para interface gráfica.
 ---
