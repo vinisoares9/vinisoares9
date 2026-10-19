@@ -33,7 +33,7 @@ Estudo sobre funcionamento, aplicações e vantagens de bancos NoSQL.
 CRUD desenvolvido em Python utilizando Tkinter para interface gráfica.
 ---
 # 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusrsoares9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.ribeiro.soares@gmail.com)
 ---
 ⭐ Obrigado por visitar meu perfil!
